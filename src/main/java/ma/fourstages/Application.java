@@ -1,6 +1,7 @@
 package ma.fourstages;
 
 import ma.fourstages.entities.security.Role;
+
 import ma.fourstages.entities.security.RoleName;
 import ma.fourstages.entities.security.User;
 import ma.fourstages.repositories.RoleRepository;
